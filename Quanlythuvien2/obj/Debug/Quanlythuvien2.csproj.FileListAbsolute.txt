@@ -1,0 +1,30 @@
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Quanlythuvien2.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Quanlythuvien2.exe
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Quanlythuvien2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Cecil.FlowAnalysis.dll
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Db4oBench.dll
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Db4objects.Db4o.dll
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Db4objects.Db4o.Instrumentation.dll
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Db4objects.Db4o.NativeQueries.dll
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Db4oTool.MSBuild.dll
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Mono.Cecil.dll
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Mono.Cecil.Pdb.dll
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Mono.GetOptions.dll
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Db4oTool.exe
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Db4objects.Db4o.xml
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Db4objects.Db4o.Instrumentation.xml
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\bin\Debug\Db4objects.Db4o.NativeQueries.xml
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.exe
+c:\users\admin\documents\visual studio 2013\Projects\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.pdb
+C:\Users\A\OneDrive\Máy tính\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Máy tính\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.Form1.resources
+C:\Users\A\OneDrive\Máy tính\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.Form2.resources
+C:\Users\A\OneDrive\Máy tính\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.Properties.Resources.resources
+C:\Users\A\OneDrive\Máy tính\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Máy tính\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Máy tính\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.exe
+C:\Users\A\OneDrive\Máy tính\Quanlythuvien2\Quanlythuvien2\obj\Debug\Quanlythuvien2.pdb
